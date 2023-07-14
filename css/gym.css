@@ -1,0 +1,138 @@
+.left{
+    display: inline-block;
+    border: 2px solid yellow;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+
+}
+.im{
+    height: 100px;
+    width: 200px;
+    line-height: 12px;
+    align-content: flex-start;
+}
+.mid{
+    display: block;
+    margin: 29px auto;
+    width: 50%;
+
+}
+
+.nv{
+    background-color: black;
+    border-radius: 30px;
+    display: inline-block;
+
+}
+.nv ul{
+    overflow: auto;
+
+}
+.nv li{
+    display: inline-block;
+    font-size: 20px;
+}
+.nv li a{
+    text-decoration: none;
+    padding: 3px 8px;
+    color: aqua;
+}
+.search{
+     float: right; 
+    color: aliceblue;
+    padding: 3px 13px;
+}
+#search{
+    border: 2px solid black;border-radius: 2px;
+    margin: 2px;padding: 2px 18px;
+    border-radius: 20px;
+    width: 250px;
+    cursor: pointer;
+    
+    position: relative;
+}
+.nv li a:hover{
+    color: yellow;
+}
+
+.right{
+    display: inline-block;
+    right: 30px;
+    top: 35px;
+    position: absolute;
+    margin: 2px;
+
+}
+.abc{
+    color: white;
+    font-size: larger;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    margin: -8px 120px;
+    text-align: right;
+    width: auto;
+    height: auto;
+}
+h1:hover{
+    color: chartreuse;
+    cursor: pointer;
+}
+.fu{
+    height: auto;
+    margin: 95px -1px;
+    padding: 20px 50px;
+    border: 2px solid white;
+    border-radius: 20px;
+    color: white;
+    width: 50%;
+}
+.form input{
+    display: block;
+    border: 2px solid black;
+    text-align: center;
+    padding: 6px;
+    margin: 8px -35px;
+    width: 300px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.fu h2{
+    text-align: left;
+    font-style: oblique;
+    font-family: 'Roboto', sans-serif;
+    color: #ff0a75;
+    background-color: black;
+    width: 600px;
+}
+.fu h2:hover{
+    cursor: pointer;
+    color: blueviolet;
+}
+.fu button{
+    display: block;
+    width: 23%;
+    margin: 20px -35px;
+}
+.fuu p{
+    margin: -496px 612px;
+    padding: 10px;
+    color: rgb(157, 193, 224);
+    font-size: x-large;
+    font-style: normal;
+    background-color: black;
+    width: 43px;
+    position: relative;
+    border-radius: 20px;
+}
+.fuu p:hover{
+    cursor: pointer;
+    background-color: rgb(227, 143, 143);
+}
+.iam{
+    width: 28%;
+    margin: 460px 825px;
+    height: auto;
+}
+
+
